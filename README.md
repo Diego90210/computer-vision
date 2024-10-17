@@ -1,5 +1,4 @@
 # ComputerVision
-Protipo de app para detectar árboles.
-Ésta versión contiene un dataset de solo 30 imágenes. La prueba se realizó con 1 epoch.
-Los resultados no fueron los esperados. 
-La siguiente prueba se realizará con 100 imágenes y 40 epochs.
+# ComputerVision
+Prototype of Tree Detection App.
+This version contains a dataset of 100 images. The test was conducted with 40 epochs.
